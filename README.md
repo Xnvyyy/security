@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👯 My documentation [Xnvyy Scripts](https://xnvyy-scripts.gitbook.io/xnvyy-core/)
+- 👯 My documentation [Xnvyy Scripts](https://xnvyy-scripts.gitbook.io/home-xnvyyscripts/))
 
 - 🤝 I’m the creator of famous Xnvyy-Core [Xnvyy-core](https://github.com/Xnvyyy/core)
 
